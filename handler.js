@@ -157,14 +157,14 @@ $(document).on("click", ".archived", function(event) {
 	var href = $(this).attr('hreff');
 	var tit = $(this).attr('title');
 	var text = $(this).attr('text');
-	var mobj = {};
+	var obj = {};
 	var vals = {};
 	vals['title'] = tit;
 	vals['href'] = href;
 	vals['text'] = text;
 	
-	mobj[vals['href']]=vals;
-	chrome.storage.sync.set(mobj);
+	obj[vals['href']]=vals;
+	chrome.storage.sync.set(obj);
 	$(this).text("Added to Archive List");
 
 });
