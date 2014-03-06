@@ -15,7 +15,7 @@ Installation steps:
 
 4) Click on the 'load unpack extension' button and choose the folder extracted
 
-Thats it done. Once you login in FB, the archive option appears after the comment option in every post(except for some private posts).
+Thats it done. Once you login in Facebook, you can see the archive option at the end of the section containing the like & comment options of every post(except for some private posts).
 
 Click on the archive option and the post gets added into your list. 
 Access your list by clicking on the FaceBook icon (on top-right after the search bar)
