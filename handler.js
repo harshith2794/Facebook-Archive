@@ -168,32 +168,6 @@ $(document).on("click", ".archived", function(event) {
 	$(this).text("Added to Archive List");
 
 });
-	
 
 
-//console.log(text);
-	//console.log('enter');
-	//var tit = $(ele).find(".board_item_title").find("a").text();
-	// chrome.storage.sync.get( null, function (items)
-	// {
-	// 	for(k in items)
-	// 	{
-	// 		if(items[k]['href']==link)
-	// 		{
-	// 			$(ele).addClass("archive_add");
-	// 			console.log('found');
 
-	// 		  add = "<span> • </span><span><a href='#' title='"+title+"' hreff='" + link + "' text='"+text+"' class='archived'>Added to Archive List</a></span>"
-	// 		  var check= String($(ele).find("._5pcp").find('span.archived').text());
-	// 			if(check=="")
-	// 			{
-	// 				console.log("match");
-	// 		 		 $(ele).find("form").find("._5pcp").append(add);
-	// 		 	}
-	// 		     return;
-	// 		}
-	// 	}
-	// 		{
-				
-			// }	
-			// else{
