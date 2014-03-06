@@ -1,6 +1,6 @@
 Facebook-Archive
 ================
-Ever felt the need for a better way to search & archive posts/images/videos you've previously seen on Facebook. 
+Ever felt the need for a better way to browse & archive posts/images/videos you've previously seen on Facebook. 
 Ever wished there was a tool to archive posts without sharing/liking.
 Then this is what you are looking for. 
 A chrome extension to archive posts on Facebook. The extension appends an Archive option to every post and stores it as  you click on it.
